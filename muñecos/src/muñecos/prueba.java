@@ -12,7 +12,7 @@ public class prueba {
 
     //COMENTARIO PARA MODIFICACIÓN PRA GITHUB (JAVIER)
     
-    //comentario añadido por antonio martinez al trabajo de javier villa
+  //este es un nuevo comentario despues del anterior
     public static void main(String[] args) {
         
         
